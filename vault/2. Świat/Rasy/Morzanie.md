@@ -1,0 +1,5 @@
+- Mieszkają w podwodnym mieście na zachodnim wybrzeżu
+- Chcą uwolnić Umberlee, aby ona wskazała im drogę do ich boga, Eadro
+- Pokojowo nastawieni wobec "Mieszkańców Nadmorza"
+- Wokół ich miasta szaleje burza - wiąże się to z tym, że w ich mieście znajduje się część Umberlee
+- Często pływają na ogromnych konikach morskich

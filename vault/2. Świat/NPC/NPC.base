@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("npc")
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - residence
+    columnSize:
+      file.name: 131

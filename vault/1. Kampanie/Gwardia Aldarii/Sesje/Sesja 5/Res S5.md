@@ -1,0 +1,7 @@
+- Polecieli ze Starym Joe na Przeklętą Skałę
+- Pokonali piratów
+- Pojmali kapitana Tajfuna
+- Reszta piratów dead
+- Wzięli (ale nie dotykali) naszyjnik z uwięzioną Umberlee
+- Chcą naprawić statek (jedna kula w niego uderzyła)
+- Ralakesh będzie sprawdzał naszyjnik

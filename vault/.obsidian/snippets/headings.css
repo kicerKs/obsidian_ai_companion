@@ -1,0 +1,12 @@
+.cm-header-2, .markdown-preview-view h2 {
+	padding-left: 1ch;
+}
+
+.cm-header-3, .markdown-preview-view h3 {
+	padding-left: 2ch;
+}
+
+body {
+  --embed-border-start: none;
+  --embed-padding: 0;
+}

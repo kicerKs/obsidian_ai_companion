@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "calendar",
+  "name": "Calendar of Harptos",
+  "definition": {
+    "id": "calendar",
+    "name": "Calendar of Harptos",
+    "eraLabel": "P.A.",
+    "weekdays": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Młot (Pełnia Zimy)",
+        "days": 30
+      },
+      {
+        "id": "month-2",
+        "name": "Alturiak (Szpon zimy)",
+        "days": 30
+      },
+      {
+        "id": "month-3",
+        "name": "Ches (Szpon zachodów słońca)",
+        "days": 30
+      },
+      {
+        "id": "month-4",
+        "name": "Tarsahk (Szpon burz)",
+        "days": 30
+      },
+      {
+        "id": "month-5",
+        "name": "Mirtul (Topnienie)",
+        "days": 30
+      },
+      {
+        "id": "month-6",
+        "name": "Kythorn (Czas kwiatów)",
+        "days": 30
+      },
+      {
+        "id": "month-7",
+        "name": "Flamerule (Przypływ lata)",
+        "days": 30
+      },
+      {
+        "id": "month-8",
+        "name": "Eleasis (Słoneczny zenit)",
+        "days": 30
+      },
+      {
+        "id": "month-9",
+        "name": "Elient (Gaśnięcie)",
+        "days": 30
+      },
+      {
+        "id": "month-10",
+        "name": "Marpenoth (Opadanie liści)",
+        "days": 30
+      },
+      {
+        "id": "month-11",
+        "name": "Uktar (Gnicie)",
+        "days": 30
+      },
+      {
+        "id": "month-12",
+        "name": "NIghtal (Ściąganie)",
+        "days": 30
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [],
+    "intercalaryDays": [
+      {
+        "id": "named-day-1",
+        "name": "Śródzimie",
+        "insertAfterMonthIndex": 0,
+        "order": 1,
+        "weekdayMode": "none",
+        "displayPosition": "standalone",
+        "cycleYears": 1,
+        "activeYearPositions": [
+          1
+        ],
+        "skipYearsDivisibleBy": []
+      },
+      {
+        "id": "named-day-2",
+        "name": "Zielone Trawy",
+        "insertAfterMonthIndex": 3,
+        "order": 1,
+        "weekdayMode": "none",
+        "displayPosition": "standalone",
+        "cycleYears": 1,
+        "activeYearPositions": [
+          1
+        ],
+        "skipYearsDivisibleBy": []
+      },
+      {
+        "id": "named-day-3",
+        "name": "Śródlecie",
+        "insertAfterMonthIndex": 6,
+        "order": 1,
+        "weekdayMode": "none",
+        "displayPosition": "standalone",
+        "cycleYears": 1,
+        "activeYearPositions": [
+          1
+        ],
+        "skipYearsDivisibleBy": []
+      },
+      {
+        "id": "named-day-4",
+        "name": "Obfite Plony",
+        "insertAfterMonthIndex": 8,
+        "order": 3,
+        "weekdayMode": "none",
+        "displayPosition": "standalone",
+        "cycleYears": 1,
+        "activeYearPositions": [
+          1
+        ],
+        "skipYearsDivisibleBy": []
+      },
+      {
+        "id": "named-day-5",
+        "name": "Święto Księżyca",
+        "insertAfterMonthIndex": 10,
+        "order": 4,
+        "weekdayMode": "none",
+        "displayPosition": "standalone",
+        "cycleYears": 1,
+        "activeYearPositions": [
+          1
+        ],
+        "skipYearsDivisibleBy": []
+      },
+      {
+        "id": "leap-day-1",
+        "name": "Tarczowy Wiec",
+        "insertAfterMonthIndex": 6,
+        "order": 2,
+        "weekdayMode": "none",
+        "displayPosition": "standalone",
+        "cycleYears": 4,
+        "activeYearPositions": [
+          4
+        ],
+        "skipYearsDivisibleBy": []
+      }
+    ],
+    "weatherProfile": {
+      "mode": "calendar",
+      "climateYearLength": 360,
+      "baseOffsetDays": 0,
+      "cycleReset": "intercalation-cycle"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Po Apokalipsie",
+        "shortName": "P.A.",
+        "startYear": 0,
+        "startMonthIndex": 0,
+        "endYear": 500,
+        "endMonthIndex": 11,
+        "endDay": 30,
+        "startDay": 1
+      }
+    ],
+    "moons": [],
+    "yearNames": [],
+    "monthWeekdayMode": "continuous",
+    "startWeekdayIndex": 0,
+    "yearDisplay": {
+      "negativeYearsMode": "signed",
+      "largeYearFormat": "plain"
+    },
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Spring",
+        "startDay": 1,
+        "endDay": 90,
+        "color": "#a7d36d"
+      },
+      {
+        "id": "summer",
+        "name": "Summer",
+        "startDay": 91,
+        "endDay": 180,
+        "color": "#e2b35d"
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn",
+        "startDay": 181,
+        "endDay": 270,
+        "color": "#d98859"
+      },
+      {
+        "id": "winter",
+        "name": "Winter",
+        "startDay": 271,
+        "endDay": 360,
+        "color": "#7fa8d8"
+      }
+    ],
+    "time": {
+      "enabled": false,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "year",
+    "todayDate": {
+      "year": 200,
+      "monthIndex": 15,
+      "day": 13
+    },
+    "cursorDate": {
+      "year": 200,
+      "monthIndex": 15,
+      "day": 14
+    }
+  },
+  "linkedTagPackIds": [
+    "kaelzhar-actions",
+    "skyknights-of-aldaria"
+  ],
+  "linkedWeatherPackIds": [],
+  "defaultWeatherPackId": "general",
+  "autoGenerateLinkedWeatherReferences": false,
+  "markers": []
+}

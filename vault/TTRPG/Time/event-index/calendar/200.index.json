@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "calendar",
+  "year": 200,
+  "days": {
+    "14-1": {
+      "items": [
+        {
+          "id": "misja--pc9eabbm",
+          "title": "Misja: Udział w turnieju",
+          "color": "#19264d"
+        },
+        {
+          "id": "turnie-mkjb6397",
+          "title": "Turniej Gwardii",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "14-2": {
+      "items": [
+        {
+          "id": "misja--pc9eabbm",
+          "title": "Misja: Udział w turnieju",
+          "color": "#19264d"
+        },
+        {
+          "id": "turnie-mkjb6397",
+          "title": "Turniej Gwardii",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "14-3": {
+      "items": [
+        {
+          "id": "misja--pc9eabbm",
+          "title": "Misja: Udział w turnieju",
+          "color": "#19264d"
+        },
+        {
+          "id": "turnie-mkjb6397",
+          "title": "Turniej Gwardii",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "15-13": {
+      "items": [
+        {
+          "id": "porwan-879ynbkm",
+          "title": "Porwanie architekta Pioniera",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "15-14": {
+      "items": [
+        {
+          "id": "porwan-879ynbkm",
+          "title": "Porwanie architekta Pioniera",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "14-21": {
+      "items": [
+        {
+          "id": "zagini-85re26vm",
+          "title": "Zaginiony Patrol",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

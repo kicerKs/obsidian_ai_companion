@@ -1,0 +1,22 @@
+{
+  "id": "porwan-879ynbkm",
+  "calendarId": "calendar",
+  "title": "Porwanie architekta Pioniera",
+  "date": {
+    "year": 200,
+    "monthIndex": 15,
+    "day": 13
+  },
+  "endDate": {
+    "year": 200,
+    "monthIndex": 15,
+    "day": 14
+  },
+  "description": "Gwardia Aldarii bada sprawę porwania Therana Mosterna, architekta odpowiedzialnego za plany nowego okrętu króla Aldarii, Pioniera.",
+  "color": "#4e3e3e",
+  "tagRefs": [
+    "skyknights-of-aldaria:skrzydlata-gwardia-aldarii"
+  ],
+  "createdAt": "2026-09-12T10:12:04.271Z",
+  "updatedAt": "2026-09-12T10:12:04.271Z"
+}

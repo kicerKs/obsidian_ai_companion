@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "082be3b743359e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ed7b9c86121a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490ba5c8197de0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Świat/NPC/Grimsvale/Sir Keren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sir Keren"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02f2a82ba0f26ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c79a3cdb542145c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b29d969740a0a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Pliki"
+            }
+          },
+          {
+            "id": "e76c964b65c9c4f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kommunikacyjne",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "ead5c80d7d5e5261",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "56b5590247133320",
+    "type": "split",
+    "children": [
+      {
+        "id": "86da3abe0b6cea52",
+        "type": "tabs",
+        "dimension": 86.09179415855355,
+        "children": [
+          {
+            "id": "593f09e5e5dcad1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Świat/NPC/Drowy/Irrvyrae Hun'tlar, Mroczna Iluzjonistka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne"
+            }
+          },
+          {
+            "id": "527824dbd8503218",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Świat/NPC/Drowy/Irrvyrae Hun'tlar, Mroczna Iluzjonistka.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące"
+            }
+          },
+          {
+            "id": "69a968e9818a2fb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "d2bccd1219c52176",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "df951e394a90ac06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Świat/Panteon/Bóstwa/Umberlee.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt"
+            }
+          },
+          {
+            "id": "55bd0f708b93d682",
+            "type": "leaf",
+            "state": {
+              "type": "time-calendar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "time-calendar-view"
+            }
+          },
+          {
+            "id": "b865350edcd39378",
+            "type": "leaf",
+            "state": {
+              "type": "time-day-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "time-day-view"
+            }
+          },
+          {
+            "id": "1e610580ecc725df",
+            "type": "leaf",
+            "state": {
+              "type": "time-control-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "time-control-view"
+            }
+          },
+          {
+            "id": "169f3f8774a2a290",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "b705bf4bdd36e245",
+            "type": "leaf",
+            "state": {
+              "type": "todoseq-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todoseq-view"
+            }
+          },
+          {
+            "id": "27bcaaa983000f89",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "c3ebaa329d31540d",
+        "type": "tabs",
+        "dimension": 13.908205841446453,
+        "children": [
+          {
+            "id": "2988f36e2641135e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 683.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "bases:Stwórz nową bazę danych": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "randomness:Open Randomness generator browser": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: day view": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Event editor": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Controls": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
+    }
+  },
+  "active": "490ba5c8197de0ca",
+  "lastOpenFiles": [
+    "2. Świat/NPC/Aeloria/Theran Mostern.md",
+    "2. Świat/NPC/Al-Shabah/Haleem Saadid.md",
+    "2. Świat/NPC/Aldaria/Humbert Valeyr.md",
+    "2. Świat/NPC/Aldaria/Hiserus.md",
+    "2. Świat/NPC/Aldaria/Minerva Tailsan.md",
+    "2. Świat/NPC/Aldaria/Patricia Braxen.md",
+    "1. Kampanie/Gwardia Aldarii/Questy/Pomysły/Problemy lokalnej wioski.md",
+    "1. Kampanie/Gwardia Aldarii/Questy/Pomysły/Poselstwo do Ardoni.md",
+    "2. Świat/Rasy/Ardoni.md",
+    "2. Świat/Rasy/Yuan-Ti.md",
+    "2. Świat/Rasy/Morzanie.md",
+    "2. Świat/Wprowadzenie.md",
+    "2. Świat/Panteon/Bóstwa/Auril.md",
+    "2. Świat/NPC/Sir Oswald Perry.md",
+    "2. Świat/NPC/Hagger Longsteel.md",
+    "2. Świat/NPC/Aldaria/Rodrick Tailsan.md",
+    "2. Świat/NPC/Icespire/Erling Faraldson.md",
+    "2. Świat/NPC/Anastasia Winterbourne.md",
+    "2. Świat/NPC/Aldaria/Rosaline Tailsan.md",
+    "2. Świat/NPC/Aldaria/Tara Melegris.md",
+    "2. Świat/NPC/Aldaria/Aurelia Tailsan.md",
+    "2. Świat/NPC/Aldaria/Albert Tailsan.md",
+    "2. Świat/Miejsca/Aldaria (kontynent)/Mapa i geografia.md",
+    "2. Świat/Miejsca/Aldaria (kontynent)/Równiny Grim/Alvasgrove/Kasztel Lyonhall.md",
+    "2. Świat/Miejsca/Aldaria (kontynent)/Pustynia El-Shemmet/Trasa patrolu.md",
+    "2. Świat/Miejsca/Aldaria (kontynent)/Pustynia El-Shemmet/Laboratorium prac nad Pieśnią.md",
+    "D&D.zip",
+    "2. Świat/Panteon/Bóstwa/Bóstwa.base",
+    "2. Świat/NPC/Icespire",
+    "2. Świat/NPC/Al-Shabah",
+    "2. Świat/NPC/Grimsvale",
+    "2. Świat/NPC/Aldaria",
+    "2. Świat/NPC/NPC.base",
+    "2. Świat/Zielnik",
+    "1. Kampanie/Gwardia Aldarii/Sesje/Sesja 6",
+    "1. Kampanie/Gwardia Aldarii/Sesje/Sesja 5",
+    "z_Assets/Lokacje/aeloria.jpeg",
+    "Pasted image 20260731074456.png",
+    "z_Assets/Lokacje/aldaria.webp",
+    "1. GM Screen/1. GM Screen.canvas"
+  ]
+}

@@ -1,0 +1,5 @@
+- Categories
+	- Treasure (gold, magic items, etc.)
+	- New information
+	- Allies
+	- Player Specific

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "kind": "tag-pack",
+  "id": "skyknights-of-aldaria",
+  "name": "Gwardia Aldarii",
+  "tags": [
+    {
+      "id": "skrzydlata-gwardia-aldarii",
+      "name": "Skrzydlata Gwardia Aldarii",
+      "color": "#4693c3"
+    }
+  ],
+  "description": "Działania graczy i Skrzydlatej Gwardii Aldarii."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "misja--pc9eabbm",
+  "calendarId": "calendar",
+  "title": "Misja: Udział w turnieju",
+  "date": {
+    "year": 200,
+    "monthIndex": 14,
+    "day": 1
+  },
+  "endDate": {
+    "year": 200,
+    "monthIndex": 14,
+    "day": 3
+  },
+  "description": "Misja: Udział w turnieju\nUczestnicy: Mroczna Iluzjonistka, oddział drowich wojowników\n\nCel pierwszy: Dostanie się do Skrzydlatej Gwardii, obsadzenie jej drowami\nCel alternatywny: Zapobiec powstaniu Gwardii, zniszczyć jajo\n\nCel pierwszy nie został spełniony - Mroczna Iluzjonistka została wykryta przez Rycerzy Aldarii. Uciekając udało jej się zniszczyć jajo, które okazało się jednak być fałszywe.",
+  "color": "#19264d",
+  "tagRefs": [
+    "kaelzhar-actions:kael-zhar",
+    "kaelzhar-actions:mroczna-iluzjonistka"
+  ],
+  "createdAt": "2026-08-07T08:47:49.138Z",
+  "updatedAt": "2026-08-07T09:39:14.885Z"
+}

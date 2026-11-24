@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.tags.contains("deity")
+    order:
+      - file.name
+      - alignment
+      - title
+      - status
+    sort:
+      - property: status
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Panteon
+    sort:
+      - property: file.name
+        direction: ASC

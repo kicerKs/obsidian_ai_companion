@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "tag-pack",
+  "id": "kaelzhar-actions",
+  "name": "Działania Kael'zhar",
+  "tags": [
+    {
+      "id": "kael-zhar",
+      "name": "Kael'zhar",
+      "color": "#747272"
+    },
+    {
+      "id": "mroczna-iluzjonistka",
+      "name": "Mroczna Iluzjonistka",
+      "color": "#5b2475"
+    }
+  ],
+  "description": "Działania drowiego imperium Kael'zhar w celu wypełnienia ich agendy."
+}

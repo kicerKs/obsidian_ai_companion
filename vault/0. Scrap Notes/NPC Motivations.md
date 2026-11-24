@@ -1,0 +1,12 @@
+- Mundane
+	- make money
+	- raise a family
+	- not get killed
+- Nefarious
+	- wants to rip people off
+	- is a member of a cult
+	- works for enemy
+- Magical
+	- gone mad due to loneliness
+	- is secretly dragon true polymorphed
+	- wants to be a wizard

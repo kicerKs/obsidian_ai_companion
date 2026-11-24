@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "dataFolder": "TTRPG/Time",
+    "activeCalendarId": "calendar",
+    "dayViewDateFormat": "D-M-YYYY",
+    "showCalendarWeekNumbers": false,
+    "temperatureUnit": "c",
+    "controlTimeButtons": [],
+    "frontmatterImport": {
+      "enabled": false,
+      "fallbackTitleToFilename": true,
+      "colorMappings": []
+    },
+    "frontmatterExport": {
+      "enabled": false,
+      "clearMissingFields": true
+    }
+  },
+  "fantasyClock": {
+    "byCalendarId": {}
+  }
+}

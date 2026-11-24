@@ -1,0 +1,1 @@
+Miasto portowe na południowym wybrzeżu Aldarii. Władzę tutaj sprawuje lokalny wezyr, który podlega (w mniejszym bądź większym stopniu) pod króla Aldarii.

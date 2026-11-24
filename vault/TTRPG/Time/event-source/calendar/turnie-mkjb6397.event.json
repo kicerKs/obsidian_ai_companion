@@ -1,0 +1,23 @@
+{
+  "id": "turnie-mkjb6397",
+  "calendarId": "calendar",
+  "title": "Turniej Gwardii",
+  "date": {
+    "year": 200,
+    "monthIndex": 14,
+    "day": 1
+  },
+  "endDate": {
+    "year": 200,
+    "monthIndex": 14,
+    "day": 3
+  },
+  "description": "Turniej, w wyniku którego gracze zostali określeni nową Skrzydlatą Gwardią Aldarii.",
+  "color": "#4e3e3e",
+  "tagRefs": [
+    "skyknights-of-aldaria:skrzydlata-gwardia-aldarii"
+  ],
+  "noteRef": "1. Kampanie/Gwardia Aldarii/Sesje/Sesja 1/Res S1.md",
+  "createdAt": "2026-08-07T07:30:16.386Z",
+  "updatedAt": "2026-08-07T08:48:04.005Z"
+}

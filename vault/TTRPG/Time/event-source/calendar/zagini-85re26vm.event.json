@@ -1,0 +1,17 @@
+{
+  "id": "zagini-85re26vm",
+  "calendarId": "calendar",
+  "title": "Zaginiony Patrol",
+  "date": {
+    "year": 200,
+    "monthIndex": 14,
+    "day": 21
+  },
+  "description": "Gwardia Aldarii odnalazła i odstawiła zaginiony aldarski patrol do posterunku granicznego.\nPrzy okazji odnaleźli tajne laboratorium Yuan-Ti.",
+  "color": "#4e3e3e",
+  "tagRefs": [
+    "skyknights-of-aldaria:skrzydlata-gwardia-aldarii"
+  ],
+  "createdAt": "2026-09-12T10:10:53.546Z",
+  "updatedAt": "2026-09-12T10:10:53.546Z"
+}
